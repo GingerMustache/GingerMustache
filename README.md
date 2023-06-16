@@ -1,2 +1,3 @@
 <h1 align="center">Hi there, I'm Arthur</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=EFF7AF&width=1000&height=100&lines=Right+now+I'm+a+student+at+programming+school+21+and+a+mobile+developer;...+in+the+future" alt="Typing SVG" />
+[![Telegram Badge](https://img.shields.io/badge/-GingerMoustache-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://)](//https://t.me/GingerMustache) [![Gmail Badge](https://img.shields.io/badge/-artzaneg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artzaneg@gmail.com)](mailto:artzaneg@gmail.com)
