@@ -7,5 +7,7 @@
    <a href="https://t.me/GingerMustache">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
-![imgonline-com-ua-Resize-X840cCpvAhZry9g](https://github.com/GingerMustache/GingerMustache/assets/103313278/7861b5b4-2faf-4bf4-bfbb-8b43c5b75e9f)
+
+![imgonline-com-ua-Resize-X840cCpvAhZry9g](https://github.com/GingerMustache/GingerMustache/assets/103313278/1b5a0102-0a85-4c0d-a2c9-4d7e88b08a7c)
+    
 
