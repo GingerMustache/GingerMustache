@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=EFF7AF&width=1000&height=100&lines=Right+now+I'm+a+student+at+programming+school+21+and+a+mobile+developer;...+in+the+future" alt="Typing SVG" />
 
 
-:man_technologist: About Me :
+man_technologist: About Me :
 
 <div id="badges">
   <a href="mailto:artzaneg@gmail.com">
