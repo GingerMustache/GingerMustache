@@ -8,4 +8,4 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 
-![2023-06-16 13 59 28](https://github.com/GingerMustache/GingerMustache/assets/103313278/44ae30e2-8d95-4a48-84fd-87dd4c6ae9d7)
+
