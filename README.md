@@ -13,7 +13,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GinagerMoustache&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GingerMustache&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="badges">
   <a href="mailto:artzaneg@gmail.com">
