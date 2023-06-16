@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Arthur</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=EFF7AF&width=1000&height=100&lines=Right+now+I'm+a+student+at+programming+school+21+and+a+mobile+developer;...+in+the+future" alt="Typing SVG" />
-   
-  ### :red_haired_man: About Me :
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+  ### :red_haired_man: About Me :
 
 <div id="badges">
   <a href="mailto:artzaneg@gmail.com">
