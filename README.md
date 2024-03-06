@@ -27,6 +27,7 @@
 </div>
 
 ![imgonline-com-ua-Resize-X840cCpvAhZry9g](https://github.com/GingerMustache/GingerMustache/assets/103313278/1b5a0102-0a85-4c0d-a2c9-4d7e88b08a7c)
-![toGitHub](https://github.com/GingerMustache/GingerMustache/assets/103313278/61e96fe6-1f41-488d-947a-e1437013a1df)
+![ icon_to_git](https://github.com/GingerMustache/GingerMustache/assets/103313278/2a1d1d06-d245-4a5b-a098-7163f9986f4f)
+
 
 
