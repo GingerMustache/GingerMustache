@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 
-![imgonline-com-ua-Resize-X840cCpvAhZry9g](https://github.com/GingerMustache/GingerMustache/assets/103313278/1b5a0102-0a85-4c0d-a2c9-4d7e88b08a7c)
 ![ icon_to_git](https://github.com/GingerMustache/GingerMustache/assets/103313278/2a1d1d06-d245-4a5b-a098-7163f9986f4f)
 
 
