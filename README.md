@@ -19,13 +19,15 @@
 
 <div id="badges">
   <a href="mailto:artzaneg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-   <a href="https://t.me/GingerMustache">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp;
+  <a href="https://t.me/GingerMustache">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </div>
 
-![ icon_to_git](https://github.com/GingerMustache/GingerMustache/assets/103313278/2a1d1d06-d245-4a5b-a098-7163f9986f4f)
-
+<img width="300" height="350" alt="gin_image (1)" src="https://github.com/user-attachments/assets/d72c79cb-0ad8-4589-b921-ad3b2259cc2a" />
 
 
 
